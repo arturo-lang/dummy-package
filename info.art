@@ -1,4 +1,4 @@
 description: "Dummy package for Arturo"
-version: 0.0.1
+entry: "main"
 dependencies: []
 author: "drkameleon"
