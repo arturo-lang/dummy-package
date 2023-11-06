@@ -1,0 +1,7 @@
+dummyVar: 123
+
+dummyFunc: function [x][
+    print "I'm just a dummy function, so..."
+    print "I'll simply return back the exact same value you passed"
+    return x
+]
