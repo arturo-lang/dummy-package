@@ -7,7 +7,7 @@ This package will serve merely as test for Arturo's package manager
     * [And more](#and-more)
 
 ----
-
+ 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut odio elit. Aenean facilisis placerat massa. Pellentesque feugiat nisi tortor, nec sodales felis bibendum at. Curabitur nec risus at elit varius ultricies. Nunc sed finibus justo. Integer posuere nunc vel leo pharetra luctus. Morbi at mauris vel nulla fermentum rutrum. Sed vel velit lacinia lorem scelerisque consectetur. 
 
 ## At A Glance
