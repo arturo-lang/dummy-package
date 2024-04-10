@@ -1,3 +1,4 @@
 entry: "main"
+executable: "main"
 depends: []
 requires: []

@@ -5,3 +5,8 @@ dummyFunc: function [x][
     print "I'll simply return back the exact same value you passed"
     return x
 ]
+
+if standalone? [
+    print "running as a standalone binary"
+    print dummyFunc 10
+]
